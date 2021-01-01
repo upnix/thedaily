@@ -2,8 +2,6 @@
 title: "A frosty Saturday"
 categories:
 tags:
-share: false
-related: false
 ---
 
 Hello!
