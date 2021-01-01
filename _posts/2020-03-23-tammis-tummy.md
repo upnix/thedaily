@@ -13,4 +13,4 @@ Today's photo is of a tree we came across on our walk this morning. Many trees s
 Hugs!
 Hannah
 
-![3-23]({{ site.baseurl }}/assets/images/3-23.JPG)
+![3-24]({{ site.baseurl }}/assets/images/3-24.JPG)
