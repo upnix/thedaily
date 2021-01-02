@@ -96,13 +96,14 @@ author:
   name             : "Hannah"
   avatar           : "/assets/images/YoungHannah.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
-  location         : "Somewhere on the prairie, east of Edmonton"
+  location         : "Somewhere on the prairie,  
+  east of Edmonton"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hannah.w.mckenzie@gmail.com"
-    - label: "Website"
+    - label: "The Property Report"
       icon: "fas fa-fw fa-link"
       url: "https://propertyreport.upnix.com"
 #    - label: "Twitter"
