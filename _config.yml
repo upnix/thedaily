@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Hannah"
   avatar           : "/assets/images/YoungHannah.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Innisfree, AB"
+  bio              : 
+  location         : "Somewhere on the prairie, east of Edmonton"
   email            :
   links:
     - label: "Email"
