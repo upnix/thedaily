@@ -96,8 +96,7 @@ author:
   name             : "Hannah"
   avatar           : "/assets/images/YoungHannah.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
-  location         : "Somewhere on the prairie,  
-  east of Edmonton"
+  location         : "On the prairie"
   email            :
   links:
     - label: "Email"
