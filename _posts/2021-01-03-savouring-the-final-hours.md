@@ -14,4 +14,7 @@ The sheep are all set for the rest of the winter hay-wise. We rolled the second 
 
 Today's photo is of a rose hip in winter. The evening light on our dog walks is so pretty that even an amateur like myself can take an artsy photo on an iphone! 
 
+Hugs,
+Hannah
+
 ![2021-1-3]({{ site.baseurl }}/assets/images/2021-1-3.JPG)
