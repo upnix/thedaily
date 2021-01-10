@@ -266,6 +266,10 @@ compress_html:
   ignore:
     envs: development
 
+# Apparently you can do this?
+# https://github.com/mmistakes/minimal-mistakes/pull/1241
+head_scripts:
+  - /assets/js/mcjs.js
 
 # Defaults
 defaults:
