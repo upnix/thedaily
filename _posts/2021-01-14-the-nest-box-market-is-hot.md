@@ -15,4 +15,4 @@ Today's photo is of the sheep. It is a bit blurry as I really had to zoom in to 
 Hugs,<br />
 Hannah
 
-![2021-1-14]({{ site.baseurl }}/assets/images/2021-1-4.JPG)
+![2021-1-14]({{ site.baseurl }}/assets/images/2021-1-14.JPG)
