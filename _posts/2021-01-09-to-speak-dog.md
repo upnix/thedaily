@@ -15,4 +15,4 @@ Today's photo is of Revi practicing her version of yoga. I have been doing quite
 Hugs,<br />
 Hannah
 
-![2021-1-9]({{ site.baseurl }}/assets/images/2021-1-9.jpg)
+![2021-1-9]({{ site.url }}{{ site.baseurl }}/assets/images/2021-1-9.jpg)
